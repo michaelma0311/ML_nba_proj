@@ -16,6 +16,5 @@ Make sure you have the following libraries installed:
 - `pandas`
 - `numpy`
 - `sklearn`
-- `matplotlib` (for potential visualizations)
 
 ## Frontend still in progress...
