@@ -18,4 +18,4 @@ Make sure you have the following libraries installed:
 - `sklearn`
 - `matplotlib` (for potential visualizations)
 
-##Frontend still in progress
+## Frontend still in progress...
